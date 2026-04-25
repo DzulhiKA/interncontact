@@ -122,7 +122,7 @@ export default function InterviewSimPage() {
           <div>
             {/* AI Feedback */}
             <div className="card" style={{ padding: '24px', marginBottom: 20, borderColor: 'rgba(0,229,160,0.2)' }}>
-              <div style={{ display: 'flex', align: 'center', gap: 10, marginBottom: 16 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 16 }}>
                 <span style={{ fontSize: 20 }}>🤖</span>
                 <h3 style={{ fontFamily: 'Syne,sans-serif', fontSize: 18 }}>Feedback AI</h3>
               </div>
